@@ -74,7 +74,13 @@ h1, h2, h3, h4, p {
 #gift-img-genius:hover {
     background-image: url("images/genius.gif");
 }
-
+#gift-img-hot {
+    width: 400px;
+    height: 400px;
+    background-size: contain; /* or adjust based on your preference */
+    background-repeat: no-repeat;
+    background-position: center;
+}
 #gift-img-badass:hover {
     background-image: url(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV3ZzR2YXRyeHJwNGxuNjY4eW1tY2pwbHQxZTRieG5hN2RrdWczMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MFsqcBSoOKPbjtmvWz/giphy.gif);
 }
